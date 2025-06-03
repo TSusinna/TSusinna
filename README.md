@@ -1,16 +1,30 @@
-## Hi there 👋
+## Hi, I'm Tomás!
 
-<!--
-**TSusinna/TSusinna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👋 About me
 
-Here are some ideas to get you started:
+* 🔭 I’m currently working on a new personal website.
+* 🌱 I’m currently learning Python.
+* 🤝 I’m looking for job opportunities.
+* ❤️ I love tea.
+* 🍵 I'm tea powered when coding.
+* ⚡ Fun fact: As a kid I once said "I want to learn every programming language"
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Technologies & Tools
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
+---
+
+### 📈 GitHub Stats
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=TSusinna&theme=dark&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://git.io/streak-stats)
+
+---
+
+### 📫 Connect with Me
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:tomas.susinna@outlook.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/susinnatomas)
+[![My website](https://img.shields.io/badge/Website-000000?style=flat&logo=About.me&logoColor=white)](https://tsusinna.github.io/static_site/)
